@@ -12,7 +12,7 @@ num=num-14;
 num=num/12;
 num=num+3; // or num+=3;
 int r= num % 3;
-cout << "num = " << num << "r = " << r << endl; // or just count << "r= " << r << endl;
+cout << "num = " << num << "r = " << r << endl; // or just cout << "r= " << r << endl;
 
     return 0;
 }
